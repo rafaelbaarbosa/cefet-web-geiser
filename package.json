@@ -1,0 +1,27 @@
+{
+  "name": "geiser",
+  "version": "0.1.0",
+  "description": "um visualizador de pcs fritando",
+  "main": "server/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbaarbosa/cefet-web-geiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelbaarbosa/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/rafaelbaarbosa/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "hbs": "^4.0.0",
+    "underscore": "^1.8.3"
+  }
+}
